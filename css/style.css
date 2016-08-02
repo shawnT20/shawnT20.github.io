@@ -84,6 +84,16 @@ h3{
 	text-transform:uppercase;
 	font-weight:400;
 }
+
+h4{
+	font-size:30px;
+	color: rgb(0,0,0);
+	font-family: 'Abel';
+	font-weight:400;
+	text-align:center;
+	margin:0 0 60px 0;
+}
+
 h6{
 	font-size:16px;
 	color:#888888;
